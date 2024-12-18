@@ -17,7 +17,7 @@ Interested in AI like ChatGPT? Python is one of the main languages used to build
 ## How Does Python Compare to Other Languages?
 
 Think of C++ as learning to drive a stick-shift car. You need to manage every gear and detail yourself.
-Python, on the other hand, is like driving an automatic car. It takes care of the complexities for you, so you can focus on the journey (or in this case, solving problems and building cool things).
+Python, on the other hand, is like driving an automatic car. It takes care of the complexities for you, so you can focus on the journey.
 
 ## Fun Fact About Python
 You might think Python is named after the snake, but it’s actually named after the British comedy show "Monty Python's Flying Circus"! So, it’s no surprise that Python has a quirky, fun-loving community of developers.
