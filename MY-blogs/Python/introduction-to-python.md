@@ -3,7 +3,7 @@
 Welcome to the world of Python! Whether you're starting your coding journey or exploring a new programming language, Python is an excellent choice. It’s simple, versatile, and widely used in various fields, from "Web Development" to "Artificial Intelligence". This post will give you a solid starting point with Python basics, helping you take your first steps.
 
 
-## What is Python?
+## **What is Python?**
 
 Imagine you’re building something amazing—a website, a game, or even an AI-powered robot. You want a tool that’s easy to learn, fun to use, and powerful enough to handle complex tasks. That’s where Python comes in.
 Python is like the Swiss Army knife of programming languages.
