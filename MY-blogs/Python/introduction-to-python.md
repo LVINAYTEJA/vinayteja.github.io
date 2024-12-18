@@ -1,4 +1,4 @@
-# Getting Started with Python - A Beginner's Guide.
+# Python - A Beginner's Guide.
 
 Welcome to the world of Python! Whether you're starting your coding journey or exploring a new programming language, Python is an excellent choice. It’s simple, versatile, and widely used in various fields, from "Web Development" to "Artificial Intelligence". This post will give you a solid starting point with Python basics, helping you take your first steps.
 
