@@ -26,3 +26,5 @@ You might think Python is named after the snake, but it’s actually named after
 If you’re new to programming, Python is a fantastic place to start. It’s beginner-friendly, and there’s a massive community to support you. Whether you want to code your first “Hello, World!” or build the next big AI project, Python is your trusty sidekick.
 
 So, what will you create with Python? 🚀 Let’s get started!
+#
+👉 Next:[Python Installation Guide](python-installation-guide.md)
