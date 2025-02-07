@@ -12,3 +12,10 @@ pi = 3.14159
 print(name)  # Output: Alice
 print(age)   # Output: 25
 print(pi)    # Output: 3.14159
+```
+# Variable Naming Rules
+Python variable names must follow these rules:
+1. Can contain letters, numbers, and underscores ( _ ).
+2. Must start with a letter or an underscore ( _ ).
+3. Cannot start with a number.
+4. Cannot use Python keywords (if, else, while, etc.).
