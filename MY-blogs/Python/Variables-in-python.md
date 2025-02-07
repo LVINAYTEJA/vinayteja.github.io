@@ -60,4 +60,4 @@ GRAVITY = 9.8
 ```
 Although Python does not enforce constants, writing them in uppercase helps other programmers understand that they should not be modified.
 #
-👉 Previous:[My First Program](my-first-program) 👉 Next:[Types of Variables in Python](Types-of-variables)
+👉 Previous:[My First Program](my-first-program.md) 👉 Next:[Types of Variables in Python](Types-of-variables.md)
