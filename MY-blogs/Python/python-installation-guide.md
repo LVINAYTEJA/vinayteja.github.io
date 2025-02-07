@@ -22,4 +22,4 @@ python --version
 
 If the Python version in your PC matches with the current version continue with it. Else uninstall the python and reinstall the current version.
 #
-👉 Previous:[Introduction to Python](introduction-to-python.md)
+👉 Previous:[Introduction to Python](introduction-to-python.md) 👉 Next:[My First Program](My-first-program.md)
