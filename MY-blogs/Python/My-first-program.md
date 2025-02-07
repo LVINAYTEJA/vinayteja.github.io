@@ -34,3 +34,5 @@ print("Hello, World!")
 
 When you run the code, the output is diplayed as:
 *Hello, World!*
+#
+👉 Previous:[Python Installation Guide](python-installation-guide.md) 👉 Next:[Variables in Python](Variables-in-python.md)
