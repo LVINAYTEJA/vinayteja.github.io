@@ -21,3 +21,5 @@ To check version of Python you have installed on a Linux or Mac, then on linux o
 python --version
 
 If the Python version in your PC matches with the current version continue with it. Else uninstall the python and reinstall the current version.
+#
+👉 Previous:[Introduction to Python](introduction-to-python.md)
