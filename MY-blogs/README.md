@@ -3,6 +3,7 @@
 ## Python  
 1. [Introduction to Python](Python/introduction-to-python.md)
 2. [Installation Guide](Python/python-installation-guide.md)
+3. [My First Program](Python/My-first-program.md)
 
 ## Web Technology  
 1. [Introduction to Web Technology](Web_Technology/introduction-to-html.md)  
